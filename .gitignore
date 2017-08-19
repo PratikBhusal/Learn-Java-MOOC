@@ -1,0 +1,12 @@
+# Eclipse Files
+.classpath
+.project
+workbench.xmi
+tags
+eclimd.log
+
+# Eclipse Directories
+.settings/
+bin/
+doc/
+**/src/.metadata
